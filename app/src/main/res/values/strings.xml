@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Joker Mistress</string>
+    <string name="text1">Your win here!</string>
+    <string name="menuBtnText1">EXIT GAME</string>
+    <string name="menuBtnText2">START GAME</string>
+    <string name="gameBtnText2">Restart</string>
+</resources>
